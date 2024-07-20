@@ -20,7 +20,7 @@ Black bars
 
 Smaller bars
 
-27 virtual desktop instead of 9:
+27 virtual desktops instead of 9:
 
 super+number for 0-9
 
